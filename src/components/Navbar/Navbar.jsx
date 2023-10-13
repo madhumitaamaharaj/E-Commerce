@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div>
-       
+        <h1>E-Commerce</h1>
       </div>
       <div className="cart">
         <button className="cart-button">
