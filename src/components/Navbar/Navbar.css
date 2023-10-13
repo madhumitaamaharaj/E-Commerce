@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #FFE475;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .cart-button {
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 5px; 
+    position: relative; 
+    top: 5px; 
+    left: 2px; 
+    transition: transform 0.2s;
+  }
+  

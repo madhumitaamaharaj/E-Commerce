@@ -1,0 +1,40 @@
+
+.category-panel {
+    color: #4b4b4b;
+  margin-top: 110px;
+  margin-left: auto;
+    padding: 10px;
+    width: 150px;
+    overflow-y: auto; 
+    scrollbar-width:thin; 
+    scrollbar-color: #0d99ff #f1f1f1; 
+  }
+  
+  .category-panel p {
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: justify;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .category-panel p:hover {
+    background-color: #0d99ff;
+    color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+
+  @media (min-width: 768px) {
+    .category-panel {
+      width: 250px;
+      height: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
+  }
