@@ -19,7 +19,7 @@ Clone the repository: git clone https://github.com/madhumitaamaharaj/E-Commerce/
 To view the  E-Commerce project, Install node modules.(npm i) npm start
 
 ## Deployment Link-
-
+https://e-commerce-spwu.onrender.com/
 ## Video Link-
 https://drive.google.com/drive/folders/1efvFQ6ciHPCHHqWNlJTl9hSHMreB_lBw?usp=sharing
 
